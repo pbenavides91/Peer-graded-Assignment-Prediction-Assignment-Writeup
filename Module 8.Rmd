@@ -1,7 +1,7 @@
 ---
 title: "Module 8"
-author: "kwan lee"
-date: "April 14, 2017"
+author: "Pablo Benavides López"
+date: "September, 20, 2017"
 output: html_document
 ---
 
